@@ -79,12 +79,13 @@ button {
     gap: 20px;
 }
 .main__content-container2 {
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     gap: 20px;
 }
 .main__content-container-text {
+    display: flex;
     margin-left: 50px;
     justify-content: center;
 }
